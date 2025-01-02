@@ -17,11 +17,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjaykumarsmrt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 📈 GitHub Activity Graph
+[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumarsmrt&bg_color=000000&color=884c9e&line=0af587&point=e61e32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 👨🏻‍💻 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanjaysanjukumar?theme=dark&font=Marcellus&ext=contest)
 
-## 📈 GitHub Activity Graph
-[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumarsmrt&bg_color=000000&color=884c9e&line=0af587&point=e61e32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
